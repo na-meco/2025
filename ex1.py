@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('iloveky')
+st.title('찌미니바보')
